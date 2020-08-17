@@ -1,0 +1,6 @@
+Variables,Minority,Family Background,Previous Achievement,Homework,Grades
+Minority,1,-0.304,-0.323,-0.083,-0.132
+Family Background,-0.304,1,0.479,0.263,0.275
+Previous Achievement,-0.323,0.479,1,0.288,0.489
+Homework,-0.083,0.263,0.288,1,0.281
+Grades,-0.132,0.275,0.489,0.281,1
