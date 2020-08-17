@@ -1,2 +1,2 @@
-# python-code-for-first-simulation
-This is a python for the first simulation used in the research project
+# Material used in the Ph.D research project
+This contains, python code and output of the applications used in theresearch project
